@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d7aaf"],{7891:function(e,t,a){"use strict";a.r(t);var r=function(){var e=this,t=e.$createElement,a=e._self._c||t;return a("div",[a("el-breadcrumb",{attrs:{separator:"/",width:"100%"}},[a("el-breadcrumb-item",{attrs:{to:{path:"/"}}},[e._v("管理员管理")]),a("el-breadcrumb-item",[e._v("课题研究")])],1),a("el-divider")],1)},n=[],c={name:"SubjectManage"},u=c,d=a("2877"),i=Object(d["a"])(u,r,n,!1,null,"f5f1b2a0",null);t["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0d7aaf.9a9cca1b.js.map
